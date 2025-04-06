@@ -94,5 +94,5 @@ Projede hata ayıklama ve loglama için **Log4j 2** kullanılmıştır. Testi ç
 
 
 ## Authors
-**EMRE UĞUR AKPINAR** - [@Volvox1](https://github.com/Volvox1)
+**EMRE UĞUR AKPINAR** - [@emreugurakpinar](https://github.com/emreugurakpinar)
 
